@@ -7,4 +7,4 @@ The mesh can then be animated without using shape keys.
 Download the .py file and install it in Blender.
 Select a mesh,  go to Object properties and you will find "HookAnim"
 
-![alt text]([https://github.com/HookAnim/edit/main//1.png](https://github.com/dmtvision/HookAnim/edit/Master/hookanim.jpg))
+![alt text](https://github.com/dmtvision/HookAnim/edit/Master/hookanim.jpg)
